@@ -1,2 +1,2 @@
 # LC3-Project
-Projcet for LC3
+Project for LC3
